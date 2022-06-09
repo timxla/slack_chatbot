@@ -1,0 +1,26 @@
+{
+    "detect": [
+        {
+            "-blazer": "13.3%",
+            "Half-shortpants": "4.9%",
+            "blouse": "2.1%",
+            "cardigan": "6.3%",
+            "coat": "16.1%",
+            "denim": "16.8%",
+            "hoodi": "6.3%",
+            "jumper": "0.7%",
+            "leggings": "2.1%",
+            "mustang": "0.7%",
+            "onepiece": "4.2%",
+            "pkshirts": "4.2%",
+            "riders": "7.0%",
+            "shirts": "14.0%",
+            "skirt": "7.7%",
+            "slacks": "16.1%",
+            "sweater": "5.6%",
+            "sweatpants": "0.0%",
+            "sweatshirts": "6.3%",
+            "t-shirts": "18.2%"
+        }
+    ]
+}
